@@ -1,7 +1,6 @@
 # practice
 
-A new Flutter project.
-This Muni is noob but what to do
+This Muni is noob but what to do UGHHHHHH
 
 ## Getting Started
 
